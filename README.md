@@ -2,7 +2,7 @@
 
 But you can call me Carol, too 😊
 
-I'm an brazilian Information Systems Student @ UFBA, interested about Software Engineering, and especially about software quality assurance.
+I'm a brazilian Information Systems Student @ UFBA, interested about Software Engineering, and especially about software quality assurance.
 
 - 🗣️ Pronouns: she/her;
 - 📍 From Santo Amaro (BA) and currently living in Salvador (BA);
