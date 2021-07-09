@@ -7,7 +7,7 @@ I'm an Information Systems Student @ UFBA, interested about Software Engineering
 - 😄 Pronouns: she/her;
 - 📍 From Santo Amaro (BA) and currently living in Salvador (BA);
 - 🔭 I’m currently working as a Test Analyst;
-- �💻 I’m currently starting to learn Automated Tests using Selenium and Java;
+- 💻 I’m currently starting to learn Automated Tests using Selenium and Java;
 - ⚡ Fun fact: I love music, coffee and to watch decoration videos 🤷‍♀️
 
 
