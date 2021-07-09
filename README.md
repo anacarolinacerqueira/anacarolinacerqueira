@@ -7,11 +7,12 @@ I'm an Information Systems Student @ UFBA, interested about Software Engineering
 - 😄 Pronouns: she/her;
 - 📍 From Santo Amaro (BA) and currently living in Salvador (BA);
 - 🔭 I’m currently working as a Test Analyst;
-- 🌱 I’m currently starting to learn Automated Tests using Selenium and Java;
+- �💻 I’m currently starting to learn Automated Tests using Selenium and Java;
 - ⚡ Fun fact: I love music, coffee and to watch decoration videos 🤷‍♀️
 
 
-Reach me out 👇
+Reach me out! 👇
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolinacerqueira)](https://www.linkedin.com/in/anacarolinacerqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/Email-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
