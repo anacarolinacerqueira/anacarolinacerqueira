@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello, I'm Ana Carolina ✌️
 
-<!--
-**anacarolinacerqueira/anacarolinacerqueira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+But you can call me Carol, too 😊
 
-Here are some ideas to get you started:
+I'm an Information Systems Student @ UFBA, interested about Software Engineering, and especially about software quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: she/her;
+- 📍 From Santo Amaro (BA) and currently living in Salvador (BA);
+- 🔭 I’m currently working as a Test Analyst;
+- 🌱 I’m currently starting to learn Automated Tests using Selenium and Java;
+- ⚡ Fun fact: I love music, coffee and to watch decoration videos 🤷‍♀️
+
+
+Reach me out 👇
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolinacerqueira)](https://www.linkedin.com/in/anacarolinacerqueira/) 
+[![Gmail Badge](https://img.shields.io/badge/Email-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
