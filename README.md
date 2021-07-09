@@ -15,4 +15,4 @@ Reach me out! 👇
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolinacerqueira)](https://www.linkedin.com/in/anacarolinacerqueira/) 
-[![Gmail Badge](https://img.shields.io/badge/Email-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/cf.anacarolina@gmail.com-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
