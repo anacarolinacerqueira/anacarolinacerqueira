@@ -8,7 +8,7 @@ I'm a brazilian Information Systems Student @ UFBA, interested about Software En
 - 📍 I'm from Santo Amaro (BA) and currently living in Salvador (BA);
 - 🐞 I’m currently working as a QA Analyst;
 - 💻 I’m currently starting to learn Automated Tests using Selenium WebDriver and Java;
-- 👀 Fun fact: I love music, coffee, study about investments and to watch decoration videos 🤷‍♀️
+- 👀 Fun facts: I love music, coffee, to study about investments and to watch decoration videos 🤷‍♀️
 
 
 Reach me out! 👇
