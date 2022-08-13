@@ -4,7 +4,7 @@ I'm a brazilian Information Systems Student @ UFBA, living in Salvador and inter
 
 - 🗣️ Pronouns: she/her;
 - 🐞 I’m currently working as a Pl QA Analyst;
-- 💻 I’m an Certified Tester (CTFL) and Agile Tester (CTFL-AT) from ISTQB;
+- 💻 I’m a Certified Tester (CTFL) and Agile Tester (CTFL-AT) from ISTQB;
 - 💻 I’m currently improving my knowledge about API Testing anf Automated Tests;
 
 Reach me out! 👇
