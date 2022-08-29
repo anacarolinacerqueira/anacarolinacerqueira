@@ -7,7 +7,7 @@ I'm a brazilian Information Systems Student @ UFBA, living in Salvador and inter
 - 💻 I’m a Certified Tester (CTFL) and Agile Tester (CTFL-AT) from ISTQB;
 - 💻 I’m currently improving my knowledge about API Testing and Automated Tests.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&exclude_repo=spongebob-website&hide=html&langs_count=8&layout=compact&show_icons=true&count_private=true&theme=flag-india)](https://github.com/anacarolinacerqueira/github-readme-stats)
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=anacarolinacerqueira&exclude_repo=spongebob-website&hide=html&langs_count=8&layout=compact&show_icons=true&count_private=true&theme=flag-india)](https://github.com/anacarolinacerqueira/github-readme-stats) --->
 
 where to find me! 👇
 
