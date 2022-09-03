@@ -8,7 +8,7 @@ I'm a brazilian Information Systems Student @ UFBA, living in Salvador and inter
 - 💻 I’m currently improving my knowledge about API Testing and Automated Tests.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=html,css&langs_count=8&count_private=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=none&exclude_repo=spongebob-website&langs_count=8&count_private=true&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats)
 
 where to find me! 👇
 
