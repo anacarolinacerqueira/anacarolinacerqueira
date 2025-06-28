@@ -1,3 +1,6 @@
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=none&exclude_repo=spongebob-website,lardecor-loja&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ### :brazil: Olá, Eu sou Ana Carolina :)
 
 Analista de Testes de Software com mais de 6 anos de experiência. Atualmente moro em Salvador - Bahia, e tenho grande interesse pela área de Engenharia de Software, com foco em Testes e Garantia da Qualidade.
@@ -20,10 +23,7 @@ Software Quality Assurance Analyst with over 6 years of experience. Based in Sal
   - 💻 I’m a Certified Tester (CTFL), Agile Tester (CTFL-AT) and Mobile Application Tester (CT-MAT) from ISTQB (and studying for Test Automation Engineering certification - CTAL-TAE);
   - 💻 I’m currently improving my knowledge about Automated Tests with Cypress and Playwright.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=none&exclude_repo=spongebob-website,lardecor-loja&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-where to find me! 👇
+Contato | Where to find me! 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolinacerqueira)](https://www.linkedin.com/in/anacarolinacerqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/cf.anacarolina@gmail.com-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
