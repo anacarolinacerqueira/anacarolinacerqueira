@@ -14,13 +14,14 @@ ___
 
 Software Quality Assurance Analyst with over 6 years of experience. Based in Salvador, Bahia, I'm interested in Software Engineering, with a particular focus on Testing and Quality Assurance.
 
-- 🗣️ Pronouns: she/her;
-- 🐞 I’m currently working as a Test Analyst;
-- 🎓​ I hold a Bachelor's degree in Information Systems from UFBA and am currently pursuing a postgraduate degree in Quality Engineering and Software Testing at PUC Minas.
-- 💻 I’m a Certified Tester (CTFL), Agile Tester (CTFL-AT) and Mobile Application Tester (CT-MAT) from ISTQB (and studying for Test Automation Engineering certification - CTAL-TAE);
-- 💻 I’m currently improving my knowledge about Automated Tests with Cypress and Playwright.
+  - 🗣️ Pronouns: she/her;
+  - 🐞 I’m currently working as a Test Analyst;
+  - 🎓​ I hold a Bachelor's degree in Information Systems from UFBA and am currently pursuing a postgraduate degree in Quality Engineering and Software Testing at PUC Minas.
+  - 💻 I’m a Certified Tester (CTFL), Agile Tester (CTFL-AT) and Mobile Application Tester (CT-MAT) from ISTQB (and studying for Test Automation Engineering certification - CTAL-TAE);
+  - 💻 I’m currently improving my knowledge about Automated Tests with Cypress and Playwright.
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=none&exclude_repo=spongebob-website,lardecor-loja&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide=none&exclude_repo=spongebob-website,lardecor-loja&langs_count=8&count_private=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 where to find me! 👇
 
