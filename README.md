@@ -1,11 +1,11 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=280 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=donut&hide=none&exclude_repo=spongebob-website,lardecor-loja&langs_count=8&count_private=true&theme=dark)" />
-</a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=slice&height=120&color=F2E2CF&text=Olá!&fontSize=20&fontAlignY=35"/>
+<div align="center"> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=2000&color=F7774C&background=FFFDFC00&center=true&vCenter=true&repeat=false&width=435&height=30&lines=Eu+sou+Ana+Carolina!+%F0%9F%91%8B%F0%9F%8F%BE" alt="Typing SVG" /></a><br>
+Analista de Testes e Qualidade de Software | QA Analyst 
+</div>
+<br>
 
-
-### :brazil: Olá, Eu sou Ana Carolina :)
-
-Analista de Testes de Software com mais de 6 anos de experiência. Atualmente moro em Salvador - Bahia, e tenho grande interesse pela área de Engenharia de Software, com foco em Testes e Garantia da Qualidade.
+<p> Analista de Testes de Software com 7 anos de experiência. Atualmente moro em Salvador - Bahia, e tenho grande interesse pela área de Engenharia de Software, com foco em Testes e Garantia da Qualidade. </p>
 
   - 🗣️ Pronomes: ela/dela;
   - 🐞 Atualmente trabalho como Analista de Testes (QA);
@@ -13,11 +13,14 @@ Analista de Testes de Software com mais de 6 anos de experiência. Atualmente mo
   - 💻 Possuo as certificações CTFL, CTFL-AT e CT-MAT, do BSTQB; e atualmente estou me preparando para a certificação de nível Avançado em Automação de Testes (CTAL-TAE);
   - 💻 Estou aprimorando meus conhecimentos em Testes Automatizados com Cypress e Playwright.
 
-___
+<div align="center"> 
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacarolinacerqueira&layout=compact&hide_border=true&title_color=9fb2e0&text_color=FFF&bg_color=0d1117" />
+</div>
+
 
 ### :us: Hello, I'm Ana Carolina :)
 
-Software Quality Assurance Analyst with over 6 years of experience. Based in Salvador, Bahia, I'm interested in Software Engineering, with a particular focus on Testing and Quality Assurance.
+Software Quality Assurance Analyst with 7 years of experience. Based in Salvador, Bahia, I'm interested in Software Engineering, with a particular focus on Testing and Quality Assurance.
 
   - 🗣️ Pronouns: she/her;
   - 🐞 I’m currently working as a Test Analyst;
@@ -26,8 +29,9 @@ Software Quality Assurance Analyst with over 6 years of experience. Based in Sal
   - 💻 I’m currently improving my knowledge about Automated Tests with Cypress and Playwright.
 
 ___
-
-**Onde me encontrar | Where to find me!** 👇
+<div align="center">
+<p>Onde me encontrar | Where to find me 👇</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarolinacerqueira)](https://www.linkedin.com/in/anacarolinacerqueira/) 
 [![Gmail Badge](https://img.shields.io/badge/cf.anacarolina@gmail.com-ff3c00?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cf.anacarolina@gmail.com)](mailto:cf.anacarolina@gmail.com)
+</div>
