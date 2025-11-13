@@ -10,7 +10,7 @@ Analista de Testes e Qualidade de Software | QA Analyst
   - 🗣️ Pronomes: ela/dela;
   - 🐞 Atualmente trabalho como Analista de Testes (QA);
   - 🎓 Possuo Bacharelado em Sistemas de Informação pela Universidade Federal da Bahia (UFBA) e, no momento, estou cursando Pós-Graduação Lato Sensu em Engenharia da Qualidade e Testes de Software pela PUC Minas;
-  - 💻 Possuo as certificações CTFL, CTFL-AT, CT-MAT, e CTAT-TAE do BSTQB;
+  - 💻 Possuo as certificações CTFL, CTFL-AT, CT-MAT, e CTAL-TAE do BSTQB;
   - 💻 Estou aprimorando meus conhecimentos em Testes Automatizados com Cypress e Playwright.
 
 <div align="center"> 
